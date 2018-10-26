@@ -14,7 +14,7 @@
         "symfony/config": "^4.1",
         "symfony/dependency-injection": "^4.1",
         "symfony/http-kernel": "^4.1",
-        "dreamcommerce/shop-appstore-lib": "^1.2"
+        "imper86/shop-appstore-lib": "^1.2"
     },
     "autoload": {
         "psr-4": {
